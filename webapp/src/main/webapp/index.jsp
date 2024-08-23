@@ -6,10 +6,10 @@
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <title>App Gestion Pharmacie</title>
+        <title>Application de Gestion Pharmacie</title>
     </head>
     <body>
-        <h1>Gestion Pharmacie v4</h1>
+        <h1>Gestion Pharmacie v6</h1>
         <hr />
         <p>
             Modifie depuis:
