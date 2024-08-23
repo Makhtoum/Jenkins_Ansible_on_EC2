@@ -9,7 +9,7 @@
         <title>App Gestion Pharmacie</title>
     </head>
     <body>
-        <h1>Gestion Pharmacie v2</h1>
+        <h1>Gestion Pharmacie v4</h1>
         <hr />
         <p>
             Modifie depuis:
