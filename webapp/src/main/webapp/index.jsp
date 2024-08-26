@@ -50,7 +50,7 @@
     </head>
     <body>
         <header>
-            <h1>Gestion Pharmacie v6</h1>
+            <h1>Gestion Pharmacie v6.1</h1>
         </header>
 
         <nav>
